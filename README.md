@@ -33,3 +33,9 @@ NOTICE: The HackAssembler requires a JAVA Compiler and a JAVA Runtime Enviroment
 4. ![image](https://user-images.githubusercontent.com/71274563/129540892-6bbdeae4-1c57-44bc-aa05-e16133523143.png)
 5. ![image](https://user-images.githubusercontent.com/71274563/129540991-cd385b43-994f-429d-8a82-d1c7f560d82d.png)
 ![image](https://user-images.githubusercontent.com/71274563/129541118-195d2692-5e95-40cc-a4e8-24a83bd9c51b.png)
+
+### Example:
+##### ASM file (Add.asm):
+![image](https://user-images.githubusercontent.com/71274563/129542638-97baddbb-d44e-452c-b032-253739fcdaac.png)
+##### HACK file (Add.hack):
+![image](https://user-images.githubusercontent.com/71274563/129542770-a4f09c08-9a6c-4323-8a15-835e58e5007c.png)
